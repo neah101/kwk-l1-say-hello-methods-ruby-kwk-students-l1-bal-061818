@@ -1,2 +1,3 @@
-# Build your say_hello method here
+def say_hello( your_name, my_name="neah")
+  puts "hello, #{your_name}! i am #{ my_name}"
 
